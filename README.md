@@ -2,10 +2,11 @@
 # Rockyou2024.txt
 
 ## Magnet Link for Downloading
-[Download Rockyou2024.txt](magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a)
+Download Rockyou2024.txt by copy this link: 
 
-or copy this path: **magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a**
-
+> **magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a**
+ 
+ 
 ## File Information
 - **Archived file size (rockyou2024.zip):** Approximately 50 GB
 - **Raw file size(rockyou2024.txt):** Approximately 160 GB
