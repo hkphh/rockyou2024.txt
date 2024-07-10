@@ -10,6 +10,9 @@ Download Rockyou2024.txt by copy this link:
 rockyou2024.zip - 
 d3380267907a7aa7b6161010632add84ad6f25387915771a9c1f111932a20a19
 
+rockyou2024.txt - 
+457361a871f111014573ab3bda3e0f5dafd489a3217b62fc8cfb14c74d59bb11
+
  
 ## File Information
 - **Archived file size (rockyou2024.zip):** Approximately 50 GB
